@@ -1,5 +1,18 @@
 [
-   {
+               {
+    
+    "artist": "Electrosoul System",
+    "location": "Moscow, Russian Federation",
+    "image": "https://oreilleabsoluepodcast.fr/wp-content/uploads/2025/12/a2680454981_10.jpg",
+    "url": "https://oreilleabsoluepodcast.fr/wp-content/uploads/2025/12/02.-Electrosoul-System-Aquatique-Original.mp3",
+    "title": "Aquatique",
+    "album": "Kosmopolitic EP Vol.1",
+    "release_date": "2015",
+    "genre": "DRUM&BASS / ATMOSPHERIC / JAZZ",
+    "color": "#fce2e3",    
+    "description": ""
+            },  
+            {
     
     "artist": "Fiend_95",
     "location": "Munich, Germany",
@@ -10,7 +23,8 @@
     "release_date": "2024",
     "genre": "JUNGLE / VAPORWAVE / ATMOSPERIC",
     "color": "#5458bb",    
-    "description": "« in here before A.I. »" },  
+    "description": "« in here before A.I. »"
+            },  
             
             {
     
