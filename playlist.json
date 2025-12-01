@@ -1,4 +1,17 @@
 [
+            {
+    
+    "artist": "LZR",
+    "location": "São Paulo, Brazil",
+    "image": "https://oreilleabsoluepodcast.fr/wp-content/uploads/2025/12/artworks-wztHwkRSTEBpwIoj-dPmcAA-t500x500.jpg",
+    "url": "https://oreilleabsoluepodcast.fr/wp-content/uploads/2025/12/opiniao-de-LZR.mp3",
+    "title": "Opinião de LZR",
+    "album": "AMPLIFIER",
+    "release_date": "2024",
+    "genre": "DRUM&BASS / ATMOSPHERIC JUNGLE",
+    "color": "#f0f6f6",    
+    "description": "Sampled from Nara Leão’s version of the samba «Opinião». DJ, producer, and key figure in São Paulo’s underground. Founder of @grau.ent and @2stepmafiabrasil, he’s pushing UK Garage in Brazil through exclusive physical releases and raw blends of British bass and Brazilian street sounds"
+  },  
       {
     "title": "Water World",
     "artist": "KADE",
@@ -16,7 +29,7 @@
     "title": "izkarri & Nia Archives ø Killasound (Dunman Jungle Edit)",
     "artist": "Dunman",
     "album": "",
-    "genre": "JUNGLE / JUNGLE / JUNGLE / JUNGLE / ",
+    "genre": "JUNGLE / JUNGLE / JUNGLE / JUNGLE",
     "color": "#79956d",    
     "release_date": "2025",
     "location": "Bournemouth, United Kingdom",
@@ -28,7 +41,7 @@
     "title": "Choice Of Words",
     "artist": "Pete Rann",
     "album": "Run Don’t Walk",
-    "genre": "DRUM&BASS / ATMOSPHERIC / JAZZ /",
+    "genre": "DRUM&BASS / ATMOSPHERIC / JAZZ",
     "color": "#b28752",    
     "release_date": "2012",
     "location": "Lymington, United Kingdom",
@@ -64,7 +77,7 @@
     "title": "The Still",
     "artist": "Sully",
     "album": "The Still",
-    "genre": "JUNGLE / JUNGLE / JUNGLE / JUNGLE / ",
+    "genre": "JUNGLE / JUNGLE / JUNGLE / JUNGLE",
     "color": "#625860",
     "release_date": "2025",
     "location": "Norwich, United Kingdom",
