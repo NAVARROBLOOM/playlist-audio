@@ -23,16 +23,40 @@
     "color": "#dcd8d1",    
     "description": ""
   },
+    {
+    "artist": "GL4SEND3R",
+    "location": "",
+    "image": "https://oreilleabsoluepodcast.fr/wp-content/uploads/2025/12/GL4SEND3R-A-strange-and-smooth-light.jpg",
+    "url": "https://oreilleabsoluepodcast.fr/wp-content/uploads/2025/12/GL4SEND3R-A-strange-and-smooth-light.mp3",
+    "title": "A strange and smooth light",
+    "album": "[Acid, House Mix]",
+    "release_date": "",
+    "genre": "EXTRA / SET",
+    "color": "#dcd8d1",    
+    "description": "Video game to reality"
+  },
+    {
+    "artist": "GL4SEND3R",
+    "location": "",
+    "image": "https://oreilleabsoluepodcast.fr/wp-content/uploads/2025/12/GL4SEND3R-Platos-allegory.jpeg",
+    "url": "https://oreilleabsoluepodcast.fr/wp-content/uploads/2025/12/GL4SEND3R-Platos-allegory.mp3",
+    "title": "Plato's allegory",
+    "album": "",
+    "release_date": "",
+    "genre": "EXTRA / SET",
+    "color": "#c4a3cd",    
+    "description": ""
+  },
   {
-    "artist": "Electrosoul System",
-    "location": "Moscow, Russian Federation",
-    "image": "https://oreilleabsoluepodcast.fr/wp-content/uploads/2025/12/a2680454981_10.jpg",
-    "url": "https://oreilleabsoluepodcast.fr/wp-content/uploads/2025/12/02.-Electrosoul-System-Aquatique-Original.mp3",
-    "title": "Aquatique",
-    "album": "Kosmopolitic EP Vol.1",
-    "release_date": "2015",
-    "genre": "DRUM & BASS / ATMOSPHERIC / JAZZ",
-    "color": "#fce2e3",    
+    "artist": "GL4SEND3R",
+    "location": "",
+    "image": "https://oreilleabsoluepodcast.fr/wp-content/uploads/2025/12/GL4SEND3R-Break-Into-The-House.jpg",
+    "url": "https://oreilleabsoluepodcast.fr/wp-content/uploads/2025/12/GL4SEND3R-Break-Into-The-House.mp3",
+    "title": "Break Into The House",
+    "album": "",
+    "release_date": "",
+    "genre": "EXTRA / SET",
+    "color": "#104837",    
     "description": ""
   }
 ]
