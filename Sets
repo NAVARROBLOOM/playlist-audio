@@ -1,1 +1,29 @@
-
+[
+  {
+    "menu": "N°2",
+    "img numero": "",
+    "font-selected" : "",
+    "color-noselected": "#ebc8e0",
+    "contour-noselected": "#ebc8e0",
+    "color-selected": "#ebc8e0",
+    "contour-selected": "#ebc8e0",
+  },
+  {
+    "menu": "video",
+    "img numero": "",
+    "font-selected" : "",
+    "color-noselected": "#ebc8e0",
+    "contour-noselected": "#ebc8e0",
+    "color-selected": "#ebc8e0",
+    "contour-selected": "#ebc8e0",
+  },
+  {
+    "menu": "extra-sets",
+    "img numero": "",
+    "font-selected" : "",
+    "color-noselected": "#ebc8e0",
+    "contour-noselected": "#ebc8e0",
+    "color-selected": "#ebc8e0",
+    "contour-selected": "#ebc8e0",
+  }
+]
